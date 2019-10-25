@@ -1,4 +1,4 @@
-[![OSCG](/img/OSC_Galway_logo.png)](https://open-scholarship-community-galway.github.io/)
+[OSCG](/img/OSC_Galway_logo.png)
 # The Open Scholarship community Galway
 Website content for the OSCG initiative
 
