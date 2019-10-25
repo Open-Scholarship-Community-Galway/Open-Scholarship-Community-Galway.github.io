@@ -1,15 +1,14 @@
 ---
 layout: page
-title: "JOIN"
-logo: "img/home-bg.jpg"
-description: "Join the BORG"
+title: "Join"
+description: "Members of the Open Scholarship Community Galway"
+logo:
 header-img: "img/home-bg.jpg"
+ordernumber: 8
 ---
 
-# Join the BORG
-<img src="{{ site.baseurl }}/img/borg_talk.gif" style="margin-top:0px; margin-bottom:5px; margin-right:10px; width: 25% !important">   
-
-Join the BORG! It is free, it is awesome! Being a member means you are an open science enthusiast/advocate/super hero, want to join the discussion, and help promote open science practices in your community.
+# Why join
+Join the OSCG! It is free, it is awesome! Being a member means you are an open science enthusiast/advocate/super hero, want to join the discussion, and help promote open science practices in your community.
 
 # How to join?
 You can join by using GIT/GitHub as described below (New to GIT? see these [learning resources](https://help.github.com/articles/git-and-github-learning-resources/) and this [10 min. GIT tutorial](https://try.github.io/levels/1/challenges/1)). Alternatively you can email the following to `kmoerman [@] mit [dot] edu`:
@@ -20,16 +19,16 @@ Be sure to shoot that e-mail address a reminder if you do not receive a reply.
 # Using GitHub to add yourself
 Below is an example of how to add yourself as a member using GitHub. Assuming you have [git installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) do the following:
 
-1. Clone the repository to your systems.    
-`git clone https://github.com/Boston-Open-Researcher-Group/BORG.git`   
+1. Clone the repository to your systems.   
+`git clone https://github.com/Open-Scholarship-Community-Galway/Open-Scholarship-Community-Galway.github.io.git`   
 
 2. Create a new branch in which you will propose changes.   
 `git checkout -b add-me`
 
 3. Add your profile picture.    
-Profile pictures are found in the [`.../docs/img/people`](https://github.com/Boston-Open-Researcher-Group/BORG/tree/master/docs/img/people) folder.
+Profile pictures are found in the [`.../docs/img/people`](https://github.com/Open-Scholarship-Community-Galway/Open-Scholarship-Community-Galway.github.io/tree/master/img/people) folder.
 
-4. Add information about yourself to the file [`.../docs/_data/people.yml`](https://github.com/Boston-Open-Researcher-Group/BORG/blob/master/docs/_data/people.yml). You can do this by copying the below and replacing the fields with your information. Please ensure the text is aligned as shown so do not introduce additional (or remove) spaces.   
+4. Add information about yourself to the file [`.../docs/_data/people.yml`](https://github.com/Open-Scholarship-Community-Galway/Open-Scholarship-Community-Galway.github.io/tree/master/_data/people.yml). You can do this by copying the below and replacing the fields with your information. Please ensure the text is aligned as shown so do not introduce additional (or remove) spaces.   
     **The template for adding information about yourself in the people.yml file <a name="YML_template"></a>**
 
     ```yml
