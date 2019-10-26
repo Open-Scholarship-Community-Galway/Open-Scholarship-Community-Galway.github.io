@@ -6,4 +6,4 @@ Open Scholarship is an umbrella term for an approach that aims to make research 
 
 Nobody has all the answers to Open Scholarship. There are lots of things that are and will need to change in the future - the key to successfully embracing Open Scholarship is cultural change and our Community will help us with that.
 
-Anyone in and around Galway who is interested to learn more about Open Scholarship is welcome to **join us**! We also aim to connect with like-minded initiatives in Ireland and beyond!
+Anyone in and around Galway who is interested to learn more about Open Scholarship is welcome to [**join us**]({{ site.baseurl }}/join/) ! We also aim to connect with like-minded initiatives in Ireland and beyond!

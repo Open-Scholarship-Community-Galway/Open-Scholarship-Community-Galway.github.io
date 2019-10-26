@@ -11,7 +11,7 @@ logo: img/logos/OSC_Galway_logo.png
 
 # Tertiary Parameters
 github_username: Open-Scholarship-Community-Galway
-twitter_username:
+twitter_username: OSCGalway
 altmetric: true
 
 # Build settings
@@ -30,13 +30,13 @@ defaults:
       type: modules
     values:
       layout: page
-      logo: img/logos/OSC_Galway_logo_icon_large.png	
+      logo: img/logos/OSC_Galway_logo.png
   - scope:
       path: ""
       type: people
     values:
       layout: page
-      logo: img/logos/OSC_Galway_logo_icon_large.png	
+      logo: img/logos/OSC_Galway_logo.png	
   - scope:
       path: "projects"
       type: "pages"

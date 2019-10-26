@@ -11,7 +11,7 @@ ordernumber: 8
 Join the OSCG! It is free, it is awesome! Being a member means you are an open science enthusiast/advocate/super hero, want to join the discussion, and help promote open science practices in your community.
 
 # How to join?
-You can join by using GIT/GitHub as described below (New to GIT? see these [learning resources](https://help.github.com/articles/git-and-github-learning-resources/) and this [10 min. GIT tutorial](https://try.github.io/levels/1/challenges/1)). Alternatively you can email the following to `kmoerman [@] mit [dot] edu`:
+You can join by using GIT/GitHub as described below (New to GIT? see these [learning resources](https://help.github.com/articles/git-and-github-learning-resources/) and this [10 min. GIT tutorial](https://try.github.io/levels/1/challenges/1)). Alternatively you can email the following to [kevin.moerman@nuigalway.ie](mailto:kevin.moerman@nuigalway.ie)`:
 1. A profile picture
 2. The information listed in the below [``template``](#YML_template).
 Be sure to shoot that e-mail address a reminder if you do not receive a reply.
@@ -26,32 +26,40 @@ Below is an example of how to add yourself as a member using GitHub. Assuming yo
 `git checkout -b add-me`
 
 3. Add your profile picture.    
-Profile pictures are found in the [`.../docs/img/people`](https://github.com/Open-Scholarship-Community-Galway/Open-Scholarship-Community-Galway.github.io/tree/master/img/people) folder.
+Profile pictures are found in the [`.../img/people`](https://github.com/Open-Scholarship-Community-Galway/Open-Scholarship-Community-Galway.github.io/tree/master/img/people) folder.
 
-4. Add information about yourself to the file [`.../docs/_data/people.yml`](https://github.com/Open-Scholarship-Community-Galway/Open-Scholarship-Community-Galway.github.io/tree/master/_data/people.yml). You can do this by copying the below and replacing the fields with your information. Please ensure the text is aligned as shown so do not introduce additional (or remove) spaces.   
-    **The template for adding information about yourself in the people.yml file <a name="YML_template"></a>**
+4. Add a markdown file about yourself to the folder [`_people`](https://github.com/Open-Scholarship-Community-Galway/Open-Scholarship-Community-Galway.github.io/tree/master/_people). You can do this by copying the file `https://github.com/Open-Scholarship-Community-Galway/Open-Scholarship-Community-Galway.github.io/tree/master/_people/New Person.md`, change the file name to `Firstname Lastname.md`, and fill in the fields at the top of the file by replacing the text with your information. Please ensure the text is aligned as shown so do not remove or introduce spaces. Underneath these YML fields, there is some code which should not be altered. Finally at the bottom of the file you can enter free markdown text where you may add a description of yourself e.g. a short bio.  
+   
 
-    ```yml
-     - name: Dr. Kevin M Moerman   
-       role: Member  
-       img: kmm_profile_crop.jpg
-       url: https://kevinmoerman.org
-       github_username: Kevin-Mattheus-Moerman
-       twitter_username: KMMoerman
-       orcid_id: 0000-0003-3768-4269
-       impactstory_id: u/0000-0003-3768-4269
-       linkedin_username: kevin-moerman-98923831
-       email_address: kmoerman [at] mit.edu
-       interests: Open Source Software, Open Hardware
-       type: member
-       visible: true
-    ```   
+```markdown
+---
+title: New Person
+name: New Person
+role: Wizzard
+affiliation: New person's affiliation
+img: NewPerson.jpg
+purl: personal_website
+github_username: New-Person
+twitter_username: NewPerson
+orcid_id: 
+impactstory_id: 
+linkedin_username: 
+email_address: 
+type: member
+---
+
+<!--DO NOT CHANGE - HTML / LIQUID stuff to render picture and links -->
+{% include addPersonalInfo.html name=page.name description=page.description role=page.role type=page.type affiliation=page.affiliation img=page.img purl=page.purl github_username=page.github_username twitter_username=page.twitter_username orcid_id=page.orcid_id impactstory_id=page.impactstory_id linkedin_username=page.linkedin_username email_address=page.email_address %}
+
+<!-- START OF FREE MARKDOWN -->
+Short bio in markdown format
+```
 
 5. Stage your proposed changes.  
 `git add .`
 
-6. Commit your changes. The `-m` flag stands for message. Please provide a useful commit message, e.g. Added myself to the BORG.   
-`git commit -m "Added myself to the BORG"`
+6. Commit your changes. The `-m` flag stands for message. Please provide a useful commit message, e.g. Added myself to the OSCG.   
+`git commit -m "Added myself to the OSCG"`
 
 7. Push the committed changes to the GitHub repository in the branch you created.   
  `git push origin add-me`
