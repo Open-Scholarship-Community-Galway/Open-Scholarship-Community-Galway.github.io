@@ -8,17 +8,19 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="site-heading" style="padding: 50px 0 15px 0">
-					{% if page.url == '/' %}
-					{% if site.logo %}
-					<img src= "{{ site.baseurl }}/{{ site.logo }}" style="height: 175px">
-					{% endif %}
-					{% else %}{% endif %}
-                    <!-- <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1> -->
-                    {% if page.logo %}
-                    <div>
-                    <img src= "{{ site.baseurl }}/{{ page.logo }}" style="height: 175px">
-                  </div>
-                    {% endif %}
+			{% if page.url == '/' %}
+				{% if site.logo %}
+					<img src= "{{ site.baseurl }}/{{ site.logo }}" style="width:auto;max-width:100%;max-height:175px;">
+				{% endif %}
+			{% else %}
+			{% endif %}
+                    	<!-- <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1> -->
+                    		
+			{% if page.logo %}
+                    	<div>
+                    		<img src= "{{ site.baseurl }}/{{ page.logo }}" style="width:auto;max-width:100%;max-height:175px;">
+                  	</div>
+                    	{% endif %}
                     <br>
                     <h1>{% if page.title %}{{ page.title }}{% endif %}</h1>
                     <span class="subheading">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</span>
