@@ -51,7 +51,6 @@ transform: scale(1.05);
 
 <div class="card" align="center">
 
-      <a href="{{ site.baseurl }}/people/{{ people.title }}">
         {% if people.img %}
         <div class="portrait">
             <img class="profile_img" alt="" src="{{ site.baseurl }}/img/people/{{ people.img }}" style="margin-top:5px; margin-bottom:5px; margin-right:10px; ">
@@ -65,18 +64,17 @@ transform: scale(1.05);
           <br />
         {% endif %}
 
+        {% if people.role %}
+          <i>{{ people.role }}</i>
+          <br />
+        {% endif %}
+
         {% if people.affiliation %}
         <span style="text-transform: uppercase;">
           <i style="font-size:75%; color:#A9A9A9;">{{ people.affiliation }}</i>
         </span>
         <br />
         {% endif %}
-
-        {% if people.role %}
-          <i>{{ people.role }}</i>
-          <br />
-        {% endif %}
-      </a>
 
         <div style="margin-bottom:10px;">
           {% if people.purl %}
@@ -121,4 +119,16 @@ transform: scale(1.05);
                 </a>
           {% endif %}
         </div>
+
+{% if people.interests %}
+	<div>	
+		<details>
+			<summary><b><u>Interests</u></b></summary>
+				<span style="font-size:100%;"> {{ people.interests }} </span>
+		</details>
+	</div>
+	<hr>
+{% endif %}
+
 </div>
+

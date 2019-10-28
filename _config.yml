@@ -13,6 +13,7 @@ logo: img/logos/OSC_Galway_logo.png
 github_username: Open-Scholarship-Community-Galway
 twitter_username: OSCGalway
 altmetric: true
+contactEmail: kevin.moerman@nuigalway.ie
 
 # Build settings
 plugins: [jekyll-paginate]
@@ -31,12 +32,6 @@ defaults:
     values:
       layout: page
       logo: img/logos/OSC_Galway_logo.png
-  - scope:
-      path: ""
-      type: people
-    values:
-      layout: page
-      logo: img/logos/OSC_Galway_logo.png	
   - scope:
       path: "projects"
       type: "pages"
