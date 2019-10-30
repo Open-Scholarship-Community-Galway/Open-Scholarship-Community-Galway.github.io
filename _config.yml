@@ -22,6 +22,7 @@ highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+future: true
 
 # Jekyll Settings
 

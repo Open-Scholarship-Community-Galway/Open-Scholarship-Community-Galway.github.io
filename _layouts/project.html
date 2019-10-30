@@ -55,6 +55,10 @@ transform: scale(1.05);
         <br />
           <i class="post-subtitle">{{ post.subtitle }}</i>
         {% endif %}
+        {% if post.event_date %}
+        <br />
+          <b>Event date: </b><i class="post-subtitle">{{ post.event_date }}</i>
+        {% endif %}
         {% if post.thumbnail %}
         <br />
             <img alt="" src="{{ site.baseurl }}{{ post.thumbnail }}" style="width:100%;"/>
