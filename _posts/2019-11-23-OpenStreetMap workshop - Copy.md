@@ -7,7 +7,7 @@ subtitle: by Insight Centre for Data Analytics
 category: Event
 thumbnail: /img/logos/OpenMaps.png
 expiration_date: 2019/11/24
-event_date: 2019/11/24
+event_date: 2019/11/23
 location: Insight Centre for Data Analytics, NUI Galway
 map_embed:
 ---
