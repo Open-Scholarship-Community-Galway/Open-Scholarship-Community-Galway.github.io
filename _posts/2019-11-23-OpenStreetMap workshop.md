@@ -5,10 +5,10 @@ author: Hardy Schwamm
 tags: post
 subtitle: by Insight Centre for Data Analytics
 category: Event
-thumbnail: /img/logos/julia_logo.png
-expiration_date: 2019/11/07
-event_date: 2019/11/06
-location: NUIG CA107 Aras Cairnes
+thumbnail: /img/logos/OpenMaps.png
+expiration_date: 2019/11/24
+event_date: 2019/11/24
+location: Insight Centre for Data Analytics, NUI Galway
 map_embed:
 ---
 
