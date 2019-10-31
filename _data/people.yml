@@ -2,7 +2,7 @@
 
 - name: Dr. Kevin M Moerman
   role: Lecturer Biomedical Engineering
-  affiliation: National University of Ireland
+  affiliation: National University Ireland Galway
   img: kmm_profile_crop.jpg
   url: https://kevinmoerman.org
   github_username: Kevin-Mattheus-Moerman
@@ -14,3 +14,16 @@
   interests: Open Source Software, Open Hardware, Open Data, Biomechanics, Bioengineering
   type: lead
 
+- name: Hardy Schwamm
+  role: Open Scholarship Librarian
+  affiliation: National University Ireland Galway
+  img: Hardy.jpg
+  url:
+  github_username: osc-galway
+  twitter_username: hardyschwamm
+  orcid_id:
+  impactstory_id:
+  linkedin_username: hardy-schwamm-6a327616a/
+  email_address: hardy.schwamm@nuigalway.ie
+  interests: Open Scholarship, Open Science, Research data management
+  type: lead
