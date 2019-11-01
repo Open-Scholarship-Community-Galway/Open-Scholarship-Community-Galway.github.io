@@ -1,7 +1,13 @@
 ---
 layout: pagefullwidth
+title: "Blog"
+description: "Blog posts written by our communitee"
+logo:
+header-img: "img/home-bg.jpg"
+ordernumber: 100
 ---
 
+<html>
 <style>
 
 .card {
@@ -33,22 +39,15 @@ layout: pagefullwidth
 transition: all 200ms ease-in;
 transform: scale(1.05);
 }
-
-
 </style>
 
-<h1>Upcoming events</h1>
 <div class="row">
-	{% assign sorted_posts = site.posts | sort:"expiration_date" %}
+	{% assign sorted_posts = site.posts | sort:"date" %}
 	{% for post in sorted_posts %}
-
-	{% if post.category == page.category %}
-
-		{% if post.category == "Event" %}
+		{% if post.category == "Blog" %}
 			{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 			{% capture posttime %}{{post.expiration_date | date: '%s'}}{% endcapture %}
 	
-			{% if posttime > nowunix %}
 				<div class="col-xs-6 col-sm-4 col-md-3">
 				<a href="{{ post.url | prepend: site.baseurl }}" >
 				<div class="card" align="center">
@@ -73,60 +72,9 @@ transform: scale(1.05);
 				</div>
 				</a>
 				</div>
-			{% endif %}
-
-		{% else %}
 			
 		{% endif %}
-	{% endif %}
 {% endfor %}
 </div>
 
-<h1>Past events</h1>
-<div class="row">
-	{% assign sorted_posts = site.posts | sort:"expiration_date" %}
-	{% for post in sorted_posts %}
-
-	{% if post.category == page.category %}
-
-		{% if post.category == "Event" %}
-			{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-			{% capture posttime %}{{post.expiration_date | date: '%s'}}{% endcapture %}
-	
-			{% if posttime > nowunix %}
-			
-			{% else %}			
-				
-				<div class="col-xs-6 col-sm-4 col-md-3">
-				<a href="{{ post.url | prepend: site.baseurl }}" >
-				<div class="card" align="center">
-		        	<b class="post-title">{{ post.title }}</b>
-		        	{% if post.subtitle %}
-        			<br />
-          			<i class="post-subtitle">{{ post.subtitle }}</i>
-		        	{% endif %}
-	        
-				{% if post.event_date %}
-		        	<br />
-		          	<b>Event date: </b><i class="post-subtitle">{{ post.event_date }}</i>
-		        	{% endif %}
-        
-				{% if post.thumbnail %}
-			        <br />
-        			<img alt="" src="{{ site.baseurl }}{{ post.thumbnail }}" style="width:100%;"/>
-		            	{% else %}
-            			<br />
-		        	<img alt="" src="{{ site.baseurl }}/{{ site.logo }}" style="width:100%;"/>
-		        	{% endif %}
-				</div>
-				</a>
-				</div>
-
-			{% endif %}
-
-		{% else %}
-			
-		{% endif %}
-	{% endif %}
-{% endfor %}
-</div>
+<html>

@@ -1,7 +1,13 @@
 ---
 layout: pagefullwidth
+title: "Events"
+description: "Learn more about our events"
+logo:
+header-img: "img/home-bg.jpg"
+ordernumber: 4
 ---
 
+<html>
 <style>
 
 .card {
@@ -41,9 +47,6 @@ transform: scale(1.05);
 <div class="row">
 	{% assign sorted_posts = site.posts | sort:"expiration_date" %}
 	{% for post in sorted_posts %}
-
-	{% if post.category == page.category %}
-
 		{% if post.category == "Event" %}
 			{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 			{% capture posttime %}{{post.expiration_date | date: '%s'}}{% endcapture %}
@@ -78,7 +81,6 @@ transform: scale(1.05);
 		{% else %}
 			
 		{% endif %}
-	{% endif %}
 {% endfor %}
 </div>
 
@@ -86,9 +88,6 @@ transform: scale(1.05);
 <div class="row">
 	{% assign sorted_posts = site.posts | sort:"expiration_date" %}
 	{% for post in sorted_posts %}
-
-	{% if post.category == page.category %}
-
 		{% if post.category == "Event" %}
 			{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 			{% capture posttime %}{{post.expiration_date | date: '%s'}}{% endcapture %}
@@ -127,6 +126,7 @@ transform: scale(1.05);
 		{% else %}
 			
 		{% endif %}
-	{% endif %}
 {% endfor %}
 </div>
+
+<html>

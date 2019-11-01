@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagefullwidth
 title: "Contact"
 description: "How to get in touch"
 logo:

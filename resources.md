@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: pagefullwidth
 title: "Resources"
 description: "Resources for open scholars"
 logo:
 header-img: "img/home-bg.jpg"
-ordernumber: 3
+ordernumber: 5
 ---
 
 # Learning resources

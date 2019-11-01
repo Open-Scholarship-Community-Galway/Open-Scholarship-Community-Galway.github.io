@@ -1,3 +1,12 @@
+---
+layout: pagefullwidth
+title: "About us"
+description: "About the OSCG"
+logo:
+header-img: "img/home-bg.jpg"
+ordernumber: 2
+---
+
 # About us
 
 **Open Scholarship Community Galway (OSCG)** is a community of scholars and supporting staff devoted to Open principles.
