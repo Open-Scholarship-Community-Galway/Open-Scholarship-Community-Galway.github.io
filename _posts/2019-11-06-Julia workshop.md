@@ -9,7 +9,7 @@ thumbnail: /img/logos/julia_logo.png
 expiration_date: 2019/11/07
 event_date: 2019/11/06
 location: NUIG CA107 Aras Cairnes
-map_embed: https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d596.3307181531692!2d-9.066365640919074!3d53.283751109189424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d53.2836114!2d-9.0659174!4m3!3m2!1d53.2837798!2d-9.066124!5e0!3m2!1sen!2sie!4v1572622901904!5m2!1sen!2sie
+map_embed: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d596.331037844774!2d-9.066668711834753!3d53.28372820052494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x61cc1df149a07de9!2sCA107%20Aras%20Cairnes!5e0!3m2!1sen!2sie!4v1572625423027!5m2!1sen!2sie
 ---
 
 # Julia workshop <a name="top"></a>
