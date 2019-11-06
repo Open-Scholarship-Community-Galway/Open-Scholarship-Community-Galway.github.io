@@ -15,7 +15,7 @@ map_embed:<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d190
 # Early Adopters Meeting
 [**Register here if you want to join the Open Science Community Galway**](http://bit.ly/OSCGalwayInterest)
 ## What will happen at this meeting?
-This will be the very first meeting of Open enthusiasts in Galway. It will be nice to connect enthusiasts from across NUI Galway campus and beyond. We will do that in an informal and friendly manner over (free) **pizza**. 
+This will be the very first meeting of Open enthusiasts in Galway. It will be nice to connect enthusiasts from across NUI Galway campus and beyond. We will do that in an informal and friendly manner over (free) **pizza**.
 
 Among first things we might like to talk about are:
 
@@ -27,4 +27,6 @@ Among first things we might like to talk about are:
 
 ### Sounds interesting? Join us!
 
-If you want to get involved please let us know by using this [form](http://bit.ly/OSCGalwayInterest).
+Among first things we might like to talk about are our ambition and next steps. More practical things might be the OSCG website, communication and first events.
+
+If you want to get involved please let us know by using this [form](http://bit.ly/OSCGalwayInterest). Everyone welcome!
