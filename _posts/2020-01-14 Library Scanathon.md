@@ -5,7 +5,7 @@ author: Hardy Schwamm
 tags: post
 subtitle: Scan like a professional. A Library workshop
 category: Event
-thumbnail: /img/logos/OpenMaps.png
+thumbnail: /img/logos/NUIGLibrary.PNG
 expiration_date: 2020/01/15
 event_date: 2020/01/14
 location: Room G011, Hardiman building NUI Galway, NUI Galway
