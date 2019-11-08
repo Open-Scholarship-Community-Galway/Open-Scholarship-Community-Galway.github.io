@@ -2,9 +2,9 @@
 
 ## Who are we?
 
-The OSCG]({{ sit.baseurl}}/About) is a community of scholars and supporting staff across Galway devoted to Open principles. 
+The [OSCG]({{ sit.baseurl}}/About) is a community of scholars and supporting staff across Galway devoted to Open principles. 
 
-We are welcoming new members. Just hit the Join tab or email oscgalway@gmail.com. 
+We are welcoming new members. Just hit the Join tab or email [oscgalway@gmail.com](mailto:oscgalway@gmail.com). 
 
 ## What does the OSCG do?
 
