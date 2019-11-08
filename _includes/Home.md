@@ -1,14 +1,10 @@
----
-typora-root-url: ..\img\icons
----
-
 # Welcome to the Open Scholarship Community Galway (OSCG)
 
 ## Who are we?
 
 The OSCG]({{ sit.baseurl}}/About) is a community of scholars and supporting staff across Galway devoted to Open principles. 
 
-What is Open Scholarship
+We are welcoming new members. Just hit the Join tab or email oscgalway@gmail.com. 
 
 ## What does the OSCG do?
 
