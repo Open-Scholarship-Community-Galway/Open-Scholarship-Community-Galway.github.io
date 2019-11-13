@@ -15,4 +15,15 @@ Open Scholarship is an umbrella term for an approach that aims to make research 
 
 Nobody has all the answers to Open Scholarship. There are lots of things that are and will need to change in the future - the key to successfully embracing Open Scholarship is cultural change and our Community will help us with that.
 
+We have adapted the concept of the "Eight Pillars" of Open Scholarship defined by the [EU](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform):
+
+1. Open Publishing
+2. Open Infrastructure
+3. FAIR Data & Software
+4. Research Integrity
+5. Rewards & Incentives
+6. Responsible Metrics
+7. Open Education
+8. Engaging the Public
+
 Anyone in and around Galway who is interested to learn more about Open Scholarship is welcome to [**join us**]({{ site.baseurl }}/join/) ! We also aim to connect with like-minded initiatives in Ireland and beyond!

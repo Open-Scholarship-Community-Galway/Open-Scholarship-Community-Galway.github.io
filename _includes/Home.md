@@ -18,16 +18,7 @@ Or you can read our [blog posts]({{ sit.baseurl}}/Blog).
 
  Open Scholarship is an umbrella term for an approach that aims to make  research and education accessible, reproducible, and freely available to people within and outside of academics.  
 
-Open Scholarship is a young concept that still needs more "unboxing". 
+Open Scholarship includes Open Publishing and Fair Data but is a broad concept  that still needs more "unboxing". 
 
-We have adapted the concept of the "Eight Pillars" of Open Scholarship defined by the [EU](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform):
 
-1. Open Publishing
-2. Open Infrastructure
-3. FAIR Data & Software
-4. Research Integrity
-5. Rewards & Incentives
-6. Responsible Metrics
-7. Open Education
-8. Engaging the Public
 
