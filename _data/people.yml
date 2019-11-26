@@ -27,3 +27,17 @@
   email_address: hardy.schwamm@nuigalway.ie
   interests: Open Scholarship, Open Science, Research data management, Open Education
   type: lead
+
+- name: Prof Caroline Mcgregor
+  role: Professor at the School of Political Science and Sociology
+  affiliation: National University Ireland Galway
+  img: caroline.jpg
+  url: http://www.curamdevices.ie/curam/about-us/our-people/investigators/professor-caroline-mcgregor.html
+  github_username:
+  twitter_username: CMCG2016
+  orcid_id: 0000-0003-1179-8831
+  impactstory_id:
+  linkedin_username:
+  email_address: caroline.mcgregor@nuigalway.ie
+  interests: Open Source Education, Open Source Research, Open Publication, Community and Public Engagement
+  type: lead
