@@ -41,3 +41,17 @@
   email_address: caroline.mcgregor@nuigalway.ie
   interests: Open Source Education, Open Source Research, Open Publication, Community and Public Engagement
   type: lead
+
+- name: Dr Niall Madden
+  role: Senior Lecturer, School of Mathematics, Statistics and Applied Mathematics
+  affiliation: National University Ireland Galway
+  img: NiallMadden_delaunay.jpg
+  url: http://www.maths.nuigalway.ie/~niall
+  github_username: niallmadden
+  twitter_username: nllspace
+  orcid_id: 0000-0002-4327-4234
+  impactstory_id:
+  linkedin_username:
+  email_address: Niall.Madden@nuigalway.ie
+  interests: Numerical analysis, Scientific computing, Equality + Diversity + Inclusion in Higher Education, Open Education Resources and Tool
+  type: lead
