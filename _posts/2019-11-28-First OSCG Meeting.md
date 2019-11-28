@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Do we need a Community of Open Scholars at Galway?
+title:      What happened at first OSCG Meeting!
 author:     Hardy Schwamm
 tags: 		  post
 subtitle:  	
