@@ -21,7 +21,7 @@ At some point in the near future we might need to formalise this but it seems  t
 - inclusive (with regards to disciplines, aspects of open Scholarship, seniority etc.)
 - researcher-led.   
 
-### **What does Open Scholarship mean?**  
+### What does Open Scholarship mean?  
 This is an important and ongoing discussion. Our concept of Open Scholarship is based on the [Open Science Policy Framework](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform) of the EU Commission but we need to adapt it to the needs of our Community. There were some interesting comments on scope and wording of the Eight Pillars.
 
 You can see the latest version of the [Eight Pillars here](https://www.canva.com/design/DADkU4Hc67E/QJtWSeC-KPFt6o99cg7N8A/view?utm_content=DADkU4Hc67E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton).
