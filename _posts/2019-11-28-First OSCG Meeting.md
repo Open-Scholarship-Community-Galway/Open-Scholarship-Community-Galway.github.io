@@ -8,7 +8,7 @@ category:   Blog
 thumbnail:  /img/logos/OSC_Galway_logo.png
 ---
 
-# First OSCG Meeting 25 November 2019
+# OSCG Meeting 25 November 2019
 *Here is a brief summary of the First OSCG Meeting - ever!*
 
 ### Welcome everyone!
