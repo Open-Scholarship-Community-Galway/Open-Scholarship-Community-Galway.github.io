@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      What happened at first OSCG Meeting!
+title:      Our first OSCG Meeting!
 author:     Hardy Schwamm
 tags: 		  post
 subtitle:  	
@@ -29,7 +29,7 @@ You can see the latest version of the [Eight Pillars here](https://www.canva.com
 ### What is next for OSCG?
 This is early days but we are thinking about the following:
 
-- Open Scholarship Community Galway members meetings. The next one will be in the second half of January. Interested in coming along? Sign up here: http://bit.ly/OSCGalwayInterest
+- **Open Scholarship Community Galway members meetings**. The next one will be in the second half of January. Interested in coming along? Sign up here: http://bit.ly/OSCGalwayInterest
 - **Open Scholarship Café**. A semi-formal meeting 4-6 times per year with topics sourced from the Community, such as data sharing, open source software, data visualisation, Text & Data Mining, journal clubs, open textbooks, open publishing…   
 - **Open Scholarship Week 2020**. A series of events in early May. More details to follow soon
 
