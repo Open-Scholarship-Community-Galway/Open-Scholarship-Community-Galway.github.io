@@ -29,14 +29,14 @@
   type: lead
 
 - name: Dr. Fiona Malone
-  role: Biomedical Engineer and Lecturer 
+  role: Biomedical Engineer and Lecturer
   affiliation: Galway Mato Instutute of Technology
   img: fiona.jpg
-  url: 
-  github_username: 
+  url:
+  github_username:
   twitter_username: miona_falone
   orcid_id: 0000-0001-7917-1854
-  impactstory_id: 
+  impactstory_id:
   linkedin_username: fiona-malone-phd-85165039
   email_address: fiona.malone@gmit.ie
   interests: Open Access Publishing, Open Hardware, Outreach and public engagement, Medical Device Design, Biomedical Engineering
@@ -46,10 +46,10 @@
   affiliation: National University Ireland Galway
   img: noone.jpg
   url: https://www.nuigalway.ie/our-research/people/psychology/chrisnoone/
-  github_username: 
+  github_username:
   twitter_username: chris_noone_
   orcid_id: 0000-0003-4974-9066
-  impactstory_id: 
+  impactstory_id:
   linkedin_username:
   email_address: chris.noone@nuigalway.ie
   interests: Open Access, Open Science, Engagement with the Public, Health, Social Justice
@@ -99,13 +99,25 @@
   affiliation: National University Ireland Galway
   img: S_Hynes.jpg
   url: https://www.nuigalway.ie/our-research/people/health-sciences/sineadhynes/
-  github_username: 
+  github_username:
   twitter_username: sineadnieidhin
   orcid_id: 0000-0002-3199-7355
-  impactstory_id: 
-  linkedin_username: 
+  impactstory_id:
+  linkedin_username:
   email_address: sinead.hynes@nuigalway.ie
   interests: Open Access Publishing, Sharing data, Publising null-findings, Outreach and public engagement
   type: lead
 
-
+- name: Dr. András Költő
+  role: Senior Postdoctoral Researcher (Health Promotion)
+  affiliation: National University Ireland Galway
+  img: Andras.jpg
+  url: https://www.nuigalway.ie/our-research/people/health-sciences/andraskolto/
+  github_username:
+  twitter_username: KoltoAndras
+  orcid_id: 0000-0002-5509-2809
+  impactstory_id:
+  linkedin_username: andraskolto
+  email_address: andras.kolto@nuigalway.edu
+  interests: Adolescent Sexual Health, Adolescent Mental Health, LGBT+ Health, Hypnosis, Hypnotherapy, Psycho-dermatology
+  type: lead
