@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Science Community Galway - Early Adopters Meeting
+title: Open Science Community Galway - Second Meeting 21 Jan 2020
 author: Hardy Schwamm
 tags: post
 subtitle: Our first meeting!
