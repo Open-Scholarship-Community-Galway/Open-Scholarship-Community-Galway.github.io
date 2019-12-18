@@ -15,11 +15,14 @@ ordernumber: 3
 ---
 
 
+
 <html>
+
 <div class="row">
 	<!--Using LIQUID to code adding of people-->
 	{% assign sorted_people = site.data.people | sort:"name" %}
 	{% for people in sorted_people %} 
+
 	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3"> <!--Reforms array of people, full width=12-->
 	<!--Include HTML file for rendering person-->
 		{% include addPerson.html people=site.data.people %}
