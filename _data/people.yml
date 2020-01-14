@@ -122,14 +122,14 @@
   interests: Adolescent Sexual Health, Adolescent Mental Health, LGBT+ Health, Hypnosis, Hypnotherapy, Psycho-dermatology
   type: lead
   
-- name: Niall Moran
-  role: Computational Scientist
-  affiliation: Irish Centre for High End Computing (NUIG)
+- name: Dr. Niall Moran
+  role: Research Fellow, Senior Computational Scientist
+  affiliation: National University of Ireland Galway (ICHEC)
   img: N_Moran.jpg
   url: https://www.ichec.ie/staff/niall-moran-phd
   github_username: nmoran
   twitter_username: nialls_moran
-  orcid_id: 
+  orcid_id: 0000-0002-2619-5040 
   impactstory_id: 
   linkedin_username: niall-moran
   email_address: niall.moran@ichec.ie
