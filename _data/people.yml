@@ -1,6 +1,6 @@
 # People
 
-- name: Dr. Kevin M Moerman
+- name: Dr Kevin M Moerman
   role: Lecturer Biomedical Engineering
   affiliation: National University Ireland Galway
   img: kmm_profile_crop.jpg
@@ -28,9 +28,9 @@
   interests: Open Scholarship, Open Science, Research data management, Open Education
   type: lead
 
-- name: Dr. Fiona Malone
+- name: Dr Fiona Malone
   role: Biomedical Engineer and Lecturer
-  affiliation: Galway Mato Instutute of Technology
+  affiliation: Galway Mayo Instutute of Technology
   img: fiona.jpg
   url:
   github_username:
@@ -41,7 +41,7 @@
   email_address: fiona.malone@gmit.ie
   interests: Open Access Publishing, Open Hardware, Outreach and public engagement, Medical Device Design, Biomedical Engineering
 
-- name: Dr. Chris Noone
+- name: Dr Chris Noone
   role: Lecturer in Psychology
   affiliation: National University Ireland Galway
   img: noone.jpg
@@ -69,7 +69,7 @@
   interests: Open Source Education, Open Source Research, Open Publication, Community and Public Engagement
   type: lead
 
-- name: Dr. Andrew Ó Baoill
+- name: Dr Andrew Ó Baoill
   role: Lecturer English and Media Studies
   affiliation: National University Ireland Galway
   img: Andrew.jpg
@@ -94,7 +94,7 @@
   interests: Numerical analysis, Scientific computing, Equality + Diversity + Inclusion in Higher Education, Open Education Resources and Tool
   type: lead
 
-- name: Dr. Sinéad Hynes
+- name: Dr Sinéad Hynes
   role: Lecturer Occupational Therapy
   affiliation: National University Ireland Galway
   img: S_Hynes.jpg
@@ -108,7 +108,7 @@
   interests: Open Access Publishing, Sharing data, Publising null-findings, Outreach and public engagement
   type: lead
 
-- name: Dr. András Költő
+- name: Dr András Költő
   role: Senior Postdoctoral Researcher (Health Promotion)
   affiliation: National University Ireland Galway
   img: Andras.jpg
@@ -122,7 +122,7 @@
   interests: Adolescent Sexual Health, Adolescent Mental Health, LGBT+ Health, Hypnosis, Hypnotherapy, Psycho-dermatology
   type: lead
   
-- name: Dr. Niall Moran
+- name: Dr Niall Moran
   role: Research Fellow, Senior Computational Scientist
   affiliation: National University of Ireland Galway (ICHEC)
   img: N_Moran.jpg
@@ -136,7 +136,7 @@
   interests: Open data/science/education, Quantum Physics, Machine Learning, Software development
   type: lead
 
-- name: Dr. Elaine Toomey
+- name: Dr Elaine Toomey
   role: Research Fellow, Associate Director Cochrane Ireland
   affiliation: National University of Ireland Galway
   img: Toomey_Elaine.jpg
@@ -150,6 +150,29 @@
   interests: Open Science, Public Engagement, Health Research Methods
   type: lead
 
+- name: Monica Crump
+  role: Head of Collections
+  affiliation: National University of Ireland Galway
+  img: Monica_Crump.jpg
+  url: http://library.nuigalway.ie/
+  github_username: 
+  twitter_username: monzc
+  orcid_id: 0000-0002-0557-9475
+  impactstory_id: 
+  linkedin_username: monica-crump-2a650b4
+  email_address: monica.crump@nuigalway.ie
+  interests: Open Publishing, Open Education Resources
+  type: lead
 
+- name: Dr Catherine Cronin
+  role: Strategic Education Developer
+  affiliation: National Forum for the Enhancement of Teaching & Learning in HE
+  img: Catherine_Cronin.jpeg
+  url: https://catherinecronin.net
+  github_username: catherinecronin
+  twitter_username: catherinecronin
+  orcid_id: 0000-0001-9266-7598
+  email_address: catherine.cronin@teachingandlearning.ie
+  interests: open education, open educational practices, OER, OEP, critical digital/data literacies
 
 
