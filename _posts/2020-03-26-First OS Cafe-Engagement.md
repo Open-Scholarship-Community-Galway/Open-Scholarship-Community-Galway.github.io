@@ -1,11 +1,14 @@
 ---
 layout:     post
-title:      Open Scholarship Café: Engaging with the public
+title:      Open Scholarship Café
 author:     Hardy Schwamm
 tags: 		  post
-subtitle:  	
-category:   Blog
+subtitle:  	Engaging with the public
+category:   Event
 thumbnail:  /img/logos/OSC_Galway_logo.png
+expiration_date: 2020/03/27
+event_date: 2020/03/26
+location: NUIG Arts Millennium Building, AS 207
 ---
 
 # Open Scholarship Café 26 March, 12-1pm, NUIG Arts Millennium Building, AS 207
