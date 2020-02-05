@@ -175,16 +175,15 @@
   email_address: catherine.cronin@teachingandlearning.ie
   interests: open education, open educational practices, OER, OEP, critical digital/data literacies
 
-  - name: Dr Kevin Healy
+- name: Dr Kevin Healy
   role: Lecturer in Zoology
   affiliation: National University of Ireland Galway
-  img: Kevin_Healy.jpeg
+  img: Kevin_profile.jpg
   url: http://healyke.github.io/
   github_username: healyke
   twitter_username: healyke
   orcid_id: 0000-0002-3548-6253
   email_address: kevin.healy@nuigalway.ie
   interests: Open Source Software, Open Data, Open Science, Open Publishing, Ecology, Evolution
-  type: member
-
+  type: lead
 
