@@ -15,7 +15,7 @@ ordernumber: 5
 * The [Open Science MOOC](https://opensciencemooc.eu/), The OpenScienceMOOC is both a community and Massively Open Online Course (MOOC) convering all aspects of open scholarship. Modules covers anything from open access research literature, and open source software, to and open advocacy.
 * The [Center for Open Science](https://cos.io/) aims to increase openness, integrity, and reproducibility of research.  One of its products is the Open Science Framework ([OSF](https://cos.io/our-products/osf/)).
 
-##Open Scholarship Communities
+##Open Scholarship Communities##
 * We have modelled a lot of what we are doing in Galway on the good work of the [Open Science Community Utrecht](https://openscience-utrecht.com/). They provide links to [Other Open Science Communities](https://openscience-utrecht.com/links/) in the Netherlands and beyond.
 
 ## Open Scholarship Policies
