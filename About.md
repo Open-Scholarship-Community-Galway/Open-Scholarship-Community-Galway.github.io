@@ -11,7 +11,7 @@ ordernumber: 2
 
 **Open Scholarship Community Galway (OSCG)** is a community of scholars and supporting staff devoted to Open principles.
 
-Open Scholarship is an umbrella term for an approach that aims to make research and education accessible, reproducible, and freely available to people within and outside of academics. An important goal is to practice research in a transparent way. 
+Open Scholarship is an umbrella term for an approach that aims to make research and education accessible, reproducible, and freely available to people within and outside of academics. An important goal is to practice research in a transparent way.
 
 Open Scholarship practices include sharing data and research tools, open peer-review, publishing open access, uploading preprints and (meta) research about scientific methods, pre-registration and replication research.
 
@@ -29,3 +29,9 @@ We have adapted the concept of the "Eight Pillars" of Open Scholarship defined b
 8. Engaging with the Public
 
 Anyone in and around Galway who is interested to learn more about Open Scholarship is welcome to [**join us**]({{ site.baseurl }}/join/) ! We also aim to connect with like-minded initiatives in Ireland and beyond!
+
+**Who are we?**
+
+OSCG started as an initiative by researchers, librarians and others at [NUI Galway](https://www.nuigalway.ie/). The [Library](https://library.nuigalway.ie/) at NUI Galway is a strong supporter and partner of the OSCG.
+
+Since our early days in autumn 2019 we have welcomed members from [GMIT](https://www.gmit.ie/), the [Marine Institute](https://www.marine.ie/Home/home), and we are collaborating with initiatives like [Pint of Science](https://pintofscience.ie/) to raise the awareness of Open practices.
