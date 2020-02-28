@@ -30,7 +30,7 @@
 
 - name: Dr Fiona Malone
   role: Biomedical Engineer and Lecturer
-  affiliation: Galway Mayo Instutute of Technology
+  affiliation: Galway Mayo Institute of Technology
   img: fiona.jpg
   url:
   github_username:
@@ -124,7 +124,7 @@
   
 - name: Dr Niall Moran
   role: Research Fellow, Senior Computational Scientist
-  affiliation: National University of Ireland Galway (ICHEC)
+  affiliation: National University Ireland Galway (ICHEC)
   img: N_Moran.jpg
   url: https://www.ichec.ie/staff/niall-moran-phd
   github_username: nmoran
@@ -138,7 +138,7 @@
 
 - name: Dr Elaine Toomey
   role: Research Fellow, Associate Director Cochrane Ireland
-  affiliation: National University of Ireland Galway
+  affiliation: National University Ireland Galway
   img: Toomey_Elaine.jpg
   url: http://www.nuigalway.ie/colleges-and-schools/arts-social-sciences-and-celtic-studies/psychology/staff-list/elainetoomey/
   github_username: 
@@ -152,7 +152,7 @@
 
 - name: Monica Crump
   role: Head of Collections
-  affiliation: National University of Ireland Galway
+  affiliation: National University Ireland Galway
   img: Monica_Crump.jpg
   url: http://library.nuigalway.ie/
   github_username: 
@@ -177,7 +177,7 @@
 
 - name: Dr Kevin Healy
   role: Lecturer in Zoology
-  affiliation: National University of Ireland Galway
+  affiliation: National University Ireland Galway
   img: Kevin_profile.jpg
   url: http://healyke.github.io/
   github_username: healyke
@@ -185,5 +185,16 @@
   orcid_id: 0000-0002-3548-6253
   email_address: kevin.healy@nuigalway.ie
   interests: Open Source Software, Open Data, Open Science, Open Publishing, Ecology, Evolution
+  type: lead
+  
+- name: Ann Lyons
+  role: Community Engagement Co-ordinator
+  affiliation: National University Ireland Galway
+  img: Ann_Lyons.jpg
+  
+  url: https://cki.nuigalway.ie/    
+  email_address: ann.lyons@nuigalway.ie
+  interests: Community university collaboration, approaches to community engaged research and knowledge democracy
+  
   type: lead
 
