@@ -11,8 +11,8 @@ event_date: 2020/03/26
 location: NUIG Arts Millennium Building, AS 207
 ---
 
-# Open Scholarship Café 26 March, 12-1pm, NUIG Arts Millennium Building, AS 207
-*Announcing our first Open Scholarship Café*
+# Cancelled: Open Scholarship Café 26 March, 12-1pm, NUIG Arts Millennium Building, AS 207
+Please note that this event has been cancelled due to the closure of campus and coronavirus related restrictions.
 
 ### Register here!
 Please register here if you want to come along: [https://www.eventbrite.ie/e/open-scholarship-cafe-engaging-with-the-public-tickets-93494006089](https://www.eventbrite.ie/e/open-scholarship-cafe-engaging-with-the-public-tickets-93494006089)

@@ -3,7 +3,7 @@ layout:     post
 title:      Open Scholarship Café
 author:     Hardy Schwamm
 tags: 		  post
-subtitle:  	Engaging with the public
+subtitle:  	Open Education for Accessibility and Affordability
 category:   Event
 thumbnail:  /img/OER_pic.jpg
 expiration_date: 2020/04/20
@@ -11,11 +11,16 @@ event_date: 2020/04/20
 location: Online
 ---
 
-# Open Scholarship Café extra: Open Education for Accessibility and Affordability. 20 April, 1-2pm, online
+# Open Scholarship Café extra: Open Education for Accessibility and Affordability. 
+
+# 20 April, 1-2pm, online
+
 This is our first co-hosted event and we are very happy to collaborate with the [NUI Galway Students' Union](https://su.nuigalway.ie/), [College of Science & Engineering](https://www.nuigalway.ie/science/), and the [NUI Galway Library](http://www.library.nuigalway.ie/) The title of the event is "Open Education for Accessibility and Affordability".
 
 ### Register here!
-Please register here if you want to come along: https://www.eventbrite.ie/e/open-education-for-accessibility-and-affordability-tickets-96858166383
+Please register here if you want to come along: [https://www.eventbrite.ie/e/open-education-for-accessibility-and-affordability-tickets-96858166383](https://www.eventbrite.ie/e/open-education-for-accessibility-and-affordability-tickets-96858166383)
+
+Everyone welcome, Galwegians and beyond!
 
 ### Why is this event important?
 Concerns over issues of affordability and accessibility relating to the traditional textbook model have helped spur the development of a substantial ecosystem of [OER](https://www.oercommons.org/) (Open Educational Resource), including [Open Textbooks](https://open.umn.edu/opentextbooks). 
