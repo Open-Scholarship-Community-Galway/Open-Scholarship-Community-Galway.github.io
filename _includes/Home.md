@@ -1,5 +1,11 @@
 # Welcome to the Open Scholarship Community Galway (OSCG)
 
+## Open Scholarship Week 2020
+
+Virtual Open Scholarship Week 2020 (OSW2020) 11-15 May!
+
+Registrations are open! More details [here](http://www.osc-galway.ie/event/2020/05/15/OSW/)!
+
 ## Who are we?
 
 The [OSCG]({{ sit.baseurl}}/About) is a community of scholars and supporting staff across Galway devoted to Open principles. 
